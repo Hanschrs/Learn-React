@@ -1,0 +1,3 @@
+[submodule "1-Monster-Rolodex"]
+	path = 1-Monster-Rolodex
+	url = https://github.com/Hanschrs/Learn-React-MonsterRolodex.git
